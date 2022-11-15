@@ -1,0 +1,2 @@
+# Class
+Industrial training class
